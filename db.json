@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Product Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Gadget Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Test",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "text": "new task",
+      "day": "datetime",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "hello",
+      "day": "task",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
